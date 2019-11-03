@@ -128,9 +128,3 @@ ansible_python_interpreter 指定对应的Python环境
 
 动态主机清单
 
-
-
-学到第三级
-
-
-
