@@ -98,7 +98,9 @@ ansible-playbook test.yml --list-tasks
 
 ## 6,ansible-pull
 
-这个命令是用来执行**拉去远程的github或是gitlab**上的代码到**本地执行**
+这个命令是用来执行**拉去远程的github或是gitlab**上的代码到**本地执行
+
+[官网参考说明](https://docs.ansible.com/ansible/latest/cli/ansible-pull.html?highlight=pull)
 
 语法
 
